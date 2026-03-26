@@ -10,4 +10,4 @@ Structured hermeneutical self-assessment through interview, analysis, and synthe
 ## Usage
 
 Invoke when the user wants to define, articulate, or examine their biblical hermeneutic.
-The agent runs three locked phases: Interview (8 domains), Analysis (5 tasks), Synthesis (11-section Markdown profile).
+The agent runs three locked phases: Interview (13 domains), Analysis (6 tasks), Synthesis (13-section Markdown profile).
